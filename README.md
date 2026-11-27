@@ -14,4 +14,4 @@ Senior engineer in Costa Rica, building software since 2012. I like finding out 
 - [orchestration-skills](https://github.com/trinity-ai-labs/orchestration-skills): the dev pipeline for Claude Code and Codex, from idea to issue to parallel worktree execution.
 - [laravel-to-i18next](https://github.com/LorenzoWynberg/laravel-to-i18next): Laravel translations as i18next JSON for React and React Native.
 
-**Elsewhere**: dev.wynberg@gmail.com
+**Elsewhere**: [wynberg.dev](https://wynberg.dev) · contact@wynberg.dev
